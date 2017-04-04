@@ -14,3 +14,9 @@ test:
 #    branch: master
 #    heroku:
 #      appname: nerdschool-deploy
+
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: foo-bar-123
