@@ -16,7 +16,7 @@ We will also use several tools which helps with development of javascript applic
 ## Introduction
 Its that time again, you added your code to the repo and everybody loves your new feature.
 Now you just have to do the 15 manual steps in exactly the same way as last time and deliver a 2 page word document with instructions together with a zip archive to the IT department, so they can deploy the changes.
-Or wait, cant this be automated?
+Or wait, cant this be automated? Yep.
 
 In this session we will look at applications and how we can automate every step from pushing code to your repository until its available on your server.
 Sounds scary?
